@@ -1,1 +1,1 @@
-# league-table-longest
+# league-table
